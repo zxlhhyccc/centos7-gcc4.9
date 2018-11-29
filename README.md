@@ -2,6 +2,20 @@
 
 操作系统：CentOS7 64bit
 
+centos 查看操作系统版本信息主要有以下几种方式：
+
+a、通过 cat /proc/version 、uname
+
+b、通过cat /etc/issue 、cat /etc/redhat-release
+
+c、查看64位还是32位：
+
+getconf LONG_BIT
+
+d、使用 file /bin/ls
+
+使用 file /bin/ls
+
 先安装gcc、g++编译器
 
 yum install gcc
