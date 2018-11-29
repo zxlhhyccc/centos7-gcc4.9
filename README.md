@@ -6,15 +6,15 @@ gcc：4.8.5
 
 1、下载源码
 
-wget http://ftp.gnu.org/gnu/gcc/gcc-4.9.3/gcc-4.9.3.tar.bz2
+wget http://ftp.gnu.org/gnu/gcc/gcc-4.9.4/gcc-4.9.4.tar.bz2
 
 2、解压文件
 
-tar xfv gcc-4.9.3.tar.bz2
+tar xfv gcc-4.9.4.tar.bz2
 
 3、下载依赖文件
 
-cd gcc-4.9.3 ///注意，要在gcc根目录执行
+cd gcc-4.9.4 ///注意，要在gcc根目录执行
 
 ./contrib/download_prerequisites
 
@@ -43,7 +43,7 @@ mkdir build-gcc
 cd build-gcc
 
 
-../gcc-4.9.3/configure --enable-checking=release --enable-languages=c,c++ --disable-multilib
+../gcc-4.9.4/configure --enable-checking=release --enable-languages=c,c++ --disable-multilib
 
 make -j8 // -j利用多核处理器加快速度，机器核数*2
 
