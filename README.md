@@ -2,6 +2,10 @@
 
 操作系统：CentOS7 64bit
 
+先安装gcc、g++编译器
+yum install gcc
+yum install gcc-c++
+
 gcc：4.8.5
 
 1、下载源码
