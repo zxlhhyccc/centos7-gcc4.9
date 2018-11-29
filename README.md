@@ -86,3 +86,5 @@ exportLD_LIBRARY_PATH=/usr/local/lib:/usr/local/lib64/:$LD_LIBRARY_PATH
 exportC_INCLUDE_PATH=/usr/local/include/:$C_INCLUDE_PATH
 
 exportCPLUS_INCLUDE_PATH=/usr/local/include/:$CPLUS_INCLUDE_PATH
+
+https://blog.csdn.net/guo_lei_lamant/article/details/79591986
