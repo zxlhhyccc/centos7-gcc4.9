@@ -3,14 +3,16 @@
 操作系统：CentOS7 64bit
 
 先安装gcc、g++编译器
+
 yum install gcc
+
 yum install gcc-c++
 
 gcc：4.8.5
 
 1、下载源码
 
-wget http://ftp.gnu.org/gnu/gcc/gcc-4.9.4/gcc-4.9.4.tar.bz2
+wget http://ftp.gnu.org/gnu/gcc/gcc-4.9.4/gcc-4.9.4.tar.bz2（如果需安装其他版本修改版本号即可）
 
 2、解压文件
 
