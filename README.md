@@ -20,7 +20,7 @@ d、使用 file /bin/ls
 
 yum install gcc
 
-yum install gcc-c++
+yum install gcc-c++ bzip2 lbzip2
 
 gcc：4.8.5
 
