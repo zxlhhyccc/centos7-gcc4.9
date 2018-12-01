@@ -95,6 +95,8 @@ exportC_INCLUDE_PATH=/usr/local/include/:$C_INCLUDE_PATH
 
 exportCPLUS_INCLUDE_PATH=/usr/local/include/:$CPLUS_INCLUDE_PATH
 
+7、其他
+----
 centos7升级GCC4.8.5到GCC4.9.0：
 
 https://blog.csdn.net/guo_lei_lamant/article/details/79591986
