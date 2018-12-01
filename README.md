@@ -96,3 +96,7 @@ exportC_INCLUDE_PATH=/usr/local/include/:$C_INCLUDE_PATH
 exportCPLUS_INCLUDE_PATH=/usr/local/include/:$CPLUS_INCLUDE_PATH
 
 https://blog.csdn.net/guo_lei_lamant/article/details/79591986
+
+centos安装高版本的gcc：
+
+http://www.cnblogs.com/zhming26/p/6691465.html
