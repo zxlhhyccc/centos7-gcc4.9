@@ -1,5 +1,13 @@
 # centos7-gcc4.9
 
+centos7内核下载地址：
+
+官方：https://elrepo.org/linux/
+
+第三方：http://mirror.rc.usf.edu/compute_lock/elrepo/kernel/el7/x86_64/RPMS/
+
+官方项目地址：http://elrepo.org/tiki/tiki-index.php
+
 操作系统：CentOS7 64bit
 
 centos 查看操作系统版本信息主要有以下几种方式：
