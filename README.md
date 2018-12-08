@@ -105,6 +105,6 @@ centos安装高版本的gcc：
 
 http://www.cnblogs.com/zhming26/p/6691465.html
 
-内核升级过期的处理方法：
+centos7内核升级及curl证书过期处理：
 
 http://www.mamicode.com/info-detail-1253932.html
