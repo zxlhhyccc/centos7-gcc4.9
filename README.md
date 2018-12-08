@@ -104,3 +104,7 @@ https://blog.csdn.net/guo_lei_lamant/article/details/79591986
 centos安装高版本的gcc：
 
 http://www.cnblogs.com/zhming26/p/6691465.html
+
+内核升级过期的处理方法：
+
+http://www.mamicode.com/info-detail-1253932.html
